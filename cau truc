@@ -1,0 +1,13 @@
+src/main/java/com/example/demo/
+├── model/
+│   ├── User.java
+│   └── Task.java
+├── repository/
+│   ├── UserRepository.java
+│   └── TaskRepository.java
+├── service/
+│   ├── UserService.java
+│   └── TaskService.java
+└── controller/
+    ├── UserController.java
+    └── TaskController.java
